@@ -26,7 +26,7 @@ const AboutOverview = () => {
                 user engagement.
               </p>
               <p>
-                I truly live by the motto "work smarter, not harder." I feel
+                I truly live by the motto "Work smarter, not harder." I feel
                 that is the best way to deliver a client what they need in the
                 shortest amount of time possible.
               </p>
